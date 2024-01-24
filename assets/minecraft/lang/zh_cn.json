@@ -1,0 +1,54 @@
+{
+    "please.install.resource.pack": "§f您已成功安装资源包！",
+
+    "soul.determination.name":  "决心",
+    "soul.bravery.name":        "勇气",
+    "soul.justice.name":        "正义",
+    "soul.integrity.name":      "诚实",
+    "soul.kindness.name":       "仁慈",
+    "soul.perseverance.name":   "毅力",
+    "soul.patience.name":       "耐心",
+
+
+
+    "ui.text.split": "，",
+
+    "ui.enderchest.save.name": "§f存档",
+    "ui.enderchest.save.lore.0": "§c请勿移动此物品。",
+
+    "ui.archive.empty.name":            "§8空档案",
+    "ui.archive.determination.name":    "§c决心",
+    "ui.archive.bravery.name":          "§6勇气",
+    "ui.archive.justice.name":          "§e正义",
+    "ui.archive.integrity.name":        "§9诚实",
+    "ui.archive.kindness.name":         "§a仁慈",
+    "ui.archive.perseverance.name":     "§5毅力",
+    "ui.archive.patience.name":         "§b耐心",
+
+    "ui.soul.traits.name": "§7特质：",
+    "ui.soul.skills.name": "§7技能：",
+
+    "ui.soul.trait.none.name":          "§8■",
+
+    "ui.soul.trait.determination.name": "§c■",
+    "ui.soul.trait.bravery.name":       "§6■",
+    "ui.soul.trait.justice.name":       "§e■",
+    "ui.soul.trait.integrity.name":     "§9■",
+    "ui.soul.trait.kindness.name":      "§a■",
+    "ui.soul.trait.perseverance.name":  "§5■",
+    "ui.soul.trait.patience.name":      "§b■",
+
+    "ui.soul.skill.none.name": "§8未选择",
+    "ui.soul.skill.todo.name": "§8待制作",
+
+    "ui.soul.skill.stick.name": "§c木棍",
+    "ui.soul.skill.bandage.name": "§c绷带",
+    "ui.soul.skill.second_breath.name": "§c二次呼吸",
+    "ui.soul.skill.broken_knife.name": "§c破损的匕首",
+    "ui.soul.skill.heart_locket.name": "§c心形挂坠盒",
+
+    "ui.soul.skill.glove.name": "§6牢固手套",
+    "ui.soul.skill.best_defence.name": "§6最佳防守",
+
+    "ui.soul.skill.pan.name": "§a平底锅"
+}

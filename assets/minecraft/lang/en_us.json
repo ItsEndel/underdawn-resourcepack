@@ -1,0 +1,52 @@
+{
+    "please.install.resource.pack": "§fYou have installed the resource pack!",
+
+    "soul.determination.name":  "Determination",
+    "soul.bravery.name":        "Bravery",
+    "soul.justice.name":        "Justice",
+    "soul.integrity.name":      "Integrity",
+    "soul.kindness.name":       "Kindness",
+    "soul.perseverance.name":   "Perseverance",
+    "soul.patience.name":       "Patience",
+
+
+
+    "ui.text.split": ", ",
+
+    "ui.enderchest.save.name": "§fSave",
+    "ui.enderchest.save.lore.0": "§cDo not move this item.",
+
+    "ui.archive.empty.name":            "§8Empty Archive",
+    "ui.archive.determination.name":    "§cDetermination",
+    "ui.archive.bravery.name":          "§6Bravery",
+    "ui.archive.justice.name":          "§eJustice",
+    "ui.archive.integrity.name":        "§9Integrity",
+    "ui.archive.kindness.name":         "§aKindness",
+    "ui.archive.perseverance.name":     "§5Perseverance",
+    "ui.archive.patience.name":         "§bPatience",
+
+    "ui.soul.traits.name": "§7Traits: ",
+    "ui.soul.skills.name": "§7Skills: ",
+
+    "ui.soul.trait.none.name":          "§8■",
+
+    "ui.soul.trait.determination.name": "§c■",
+    "ui.soul.trait.bravery.name":       "§6■",
+    "ui.soul.trait.justice.name":       "§e■",
+    "ui.soul.trait.integrity.name":     "§9■",
+    "ui.soul.trait.kindness.name":      "§a■",
+    "ui.soul.trait.perseverance.name":  "§5■",
+    "ui.soul.trait.patience.name":      "§b■",
+
+    "ui.soul.skill.none.name": "§8Unselected",
+    "ui.soul.skill.todo.name": "§8TODO",
+
+    "ui.soul.skill.stick.name": "§cStick",
+    "ui.soul.skill.bandage.name": "§cBandage",
+    "ui.soul.skill.second_breath.name": "§cSecond Breath",
+
+    "ui.soul.skill.glove.name": "§6Glove",
+    "ui.soul.skill.best_defence.name": "§6Best Defence",
+
+    "ui.soul.skill.pan.name": "§aPan"
+}
