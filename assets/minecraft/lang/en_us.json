@@ -25,28 +25,45 @@
     "ui.archive.perseverance.name":     "§5Perseverance",
     "ui.archive.patience.name":         "§bPatience",
 
-    "ui.soul.traits.name": "§7Traits: ",
-    "ui.soul.skills.name": "§7Skills: ",
+    "ui.archive.traits.name": "§7Traits: ",
+    "ui.archive.skills.name": "§7Skills: ",
 
-    "ui.soul.trait.none.name":          "§8■",
+    "ui.archive.trait.none.name":          "§8■",
 
-    "ui.soul.trait.determination.name": "§c■",
-    "ui.soul.trait.bravery.name":       "§6■",
-    "ui.soul.trait.justice.name":       "§e■",
-    "ui.soul.trait.integrity.name":     "§9■",
-    "ui.soul.trait.kindness.name":      "§a■",
-    "ui.soul.trait.perseverance.name":  "§5■",
-    "ui.soul.trait.patience.name":      "§b■",
+    "ui.archive.trait.determination.name": "§c■",
+    "ui.archive.trait.bravery.name":       "§6■",
+    "ui.archive.trait.justice.name":       "§e■",
+    "ui.archive.trait.integrity.name":     "§9■",
+    "ui.archive.trait.kindness.name":      "§a■",
+    "ui.archive.trait.perseverance.name":  "§5■",
+    "ui.archive.trait.patience.name":      "§b■",
 
-    "ui.soul.skill.none.name": "§8Unselected",
-    "ui.soul.skill.todo.name": "§8TODO",
+    "ui.archive.skill.none.name": "§8Unselected",
+    "ui.archive.skill.todo.name": "§8TODO",
 
-    "ui.soul.skill.stick.name": "§cStick",
-    "ui.soul.skill.bandage.name": "§cBandage",
-    "ui.soul.skill.second_breath.name": "§cSecond Breath",
+    "ui.archive.skill.stick.name": "§cStick",
+    "ui.archive.skill.bandage.name": "§cBandage",
+    "ui.archive.skill.another_breath.name": "§cAnother Breath",
+    "ui.archive.skill.unruffled_calm.name": "§cUnruffled Calm",
+    "ui.archive.skill.dagger.name": "§cDagger",
+    "ui.archive.skill.heart_locket.name": "§cHeart Locket",
 
-    "ui.soul.skill.glove.name": "§6Glove",
-    "ui.soul.skill.best_defence.name": "§6Best Defence",
+    "ui.archive.skill.tough_glove.name": "§6Tough Glove",
+    "ui.archive.skill.manly_bandanna.name": "§6Manly Bandanna",
+    "ui.archive.skill.best_defence.name": "§6Best Defence",
 
-    "ui.soul.skill.pan.name": "§aPan"
+    "ui.archive.skill.gun.name": "§eGun",
+    "ui.archive.skill.cowboy_hat.name": "§eCowboy Hat",
+
+    "ui.archive.skill.ballet_shoes.name": "§9Ballet Shoes",
+    "ui.archive.skill.tutu.name": "§9Tutu",
+
+    "ui.archive.skill.pan.name": "§aPan",
+    "ui.archive.skill.apron.name": "§aApron",
+
+    "ui.archive.skill.glasses.name": "§5Glasses",
+    "ui.archive.skill.notebook.name": "§5Notebook",
+
+    "ui.archive.skill.toy_knife.name": "§bToy Knife",
+    "ui.archive.skill.ribbon.name": "§bRibbon"
 }

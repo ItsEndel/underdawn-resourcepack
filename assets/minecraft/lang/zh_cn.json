@@ -25,30 +25,45 @@
     "ui.archive.perseverance.name":     "§5毅力",
     "ui.archive.patience.name":         "§b耐心",
 
-    "ui.soul.traits.name": "§7特质：",
-    "ui.soul.skills.name": "§7技能：",
+    "ui.archive.traits.name": "§7特质：",
+    "ui.archive.skills.name": "§7技能：",
 
-    "ui.soul.trait.none.name":          "§8■",
+    "ui.archive.trait.none.name":          "§8■",
 
-    "ui.soul.trait.determination.name": "§c■",
-    "ui.soul.trait.bravery.name":       "§6■",
-    "ui.soul.trait.justice.name":       "§e■",
-    "ui.soul.trait.integrity.name":     "§9■",
-    "ui.soul.trait.kindness.name":      "§a■",
-    "ui.soul.trait.perseverance.name":  "§5■",
-    "ui.soul.trait.patience.name":      "§b■",
+    "ui.archive.trait.determination.name": "§c■",
+    "ui.archive.trait.bravery.name":       "§6■",
+    "ui.archive.trait.justice.name":       "§e■",
+    "ui.archive.trait.integrity.name":     "§9■",
+    "ui.archive.trait.kindness.name":      "§a■",
+    "ui.archive.trait.perseverance.name":  "§5■",
+    "ui.archive.trait.patience.name":      "§b■",
 
-    "ui.soul.skill.none.name": "§8未选择",
-    "ui.soul.skill.todo.name": "§8待制作",
+    "ui.archive.skill.none.name": "§8未选择",
+    "ui.archive.skill.todo.name": "§8待制作",
 
-    "ui.soul.skill.stick.name": "§c木棍",
-    "ui.soul.skill.bandage.name": "§c绷带",
-    "ui.soul.skill.second_breath.name": "§c二次呼吸",
-    "ui.soul.skill.broken_knife.name": "§c破损的匕首",
-    "ui.soul.skill.heart_locket.name": "§c心形挂坠盒",
+    "ui.archive.skill.stick.name": "§c木棍",
+    "ui.archive.skill.bandage.name": "§c绷带",
+    "ui.archive.skill.another_breath.name": "§c二次呼吸",
+    "ui.archive.skill.unruffled_calm.name": "§c临危不乱",
+    "ui.archive.skill.dagger.name": "§c匕首",
+    "ui.archive.skill.heart_locket.name": "§c心形挂坠",
 
-    "ui.soul.skill.glove.name": "§6牢固手套",
-    "ui.soul.skill.best_defence.name": "§6最佳防守",
+    "ui.archive.skill.tough_glove.name": "§6牢固手套",
+    "ui.archive.skill.manly_bandanna.name": "§6兄贵头巾",
+    "ui.archive.skill.best_defence.name": "§6最佳防守",
 
-    "ui.soul.skill.pan.name": "§a平底锅"
+    "ui.archive.skill.gun.name": "§e枪",
+    "ui.archive.skill.cowboy_hat.name": "§e牛仔帽",
+
+    "ui.archive.skill.ballet_shoes.name": "§9芭蕾舞鞋",
+    "ui.archive.skill.tutu.name": "§9芭蕾舞裙",
+
+    "ui.archive.skill.pan.name": "§a平底锅",
+    "ui.archive.skill.apron.name": "§a围裙",
+
+    "ui.archive.skill.glasses.name": "§5眼镜",
+    "ui.archive.skill.notebook.name": "§5笔记",
+
+    "ui.archive.skill.toy_knife.name": "§b玩具刀",
+    "ui.archive.skill.ribbon.name": "§b缎带"
 }
