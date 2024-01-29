@@ -159,6 +159,11 @@
 			"translation": [-3, -3.5, 1],
 			"scale": [0.7, 0.7, 0.7]
 		},
+		"head": {
+			"rotation": [-90, 0, 0],
+			"translation": [0.75, 0, 0.75],
+			"scale": [1.5, 1.5, 1.5]
+		},
 		"fixed": {
 			"rotation": [22.5, -22.5, 48],
 			"translation": [3.75, -3.25, 0],
@@ -171,14 +176,12 @@
 			"name": "page1",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"nbt": "{}",
 			"children": [1, 2, 3, 4, 5]
 		},
 		{
 			"name": "page2",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [6, 7, 8, 9, 10]
 		}
 	]
