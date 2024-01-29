@@ -11,6 +11,12 @@
 
 
 
+    "team.lobby.name": "Lobby",
+    "team.killer.name": "Killer",
+    "team.survivor.name": "Survivor",
+
+
+
     "ui.text.split": ", ",
 
     "ui.enderchest.save.name": "§fSave",
@@ -29,7 +35,6 @@
     "ui.archive.skills.name": "§7Skills: ",
 
     "ui.archive.trait.none.name":          "§8■",
-
     "ui.archive.trait.determination.name": "§c■",
     "ui.archive.trait.bravery.name":       "§6■",
     "ui.archive.trait.justice.name":       "§e■",

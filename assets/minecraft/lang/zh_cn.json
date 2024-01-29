@@ -11,6 +11,12 @@
 
 
 
+    "team.lobby.name": "大厅",
+    "team.killer.name": "猎杀者",
+    "team.survivor.name": "求生者",
+
+
+
     "ui.text.split": "，",
 
     "ui.enderchest.save.name": "§f存档",
@@ -29,7 +35,6 @@
     "ui.archive.skills.name": "§7技能：",
 
     "ui.archive.trait.none.name":          "§8■",
-
     "ui.archive.trait.determination.name": "§c■",
     "ui.archive.trait.bravery.name":       "§6■",
     "ui.archive.trait.justice.name":       "§e■",

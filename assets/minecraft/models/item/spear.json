@@ -155,14 +155,14 @@
 			"translation": [0.5, 0, -6]
 		},
 		"gui": {
-			"rotation": [0, 0, -45],
+			"rotation": [45, 20, -45],
 			"translation": [-3, -3.5, 1],
-			"scale": [0.7, 0.7, 1]
+			"scale": [0.7, 0.7, 0.7]
 		},
 		"fixed": {
-			"rotation": [0, 0, 45],
+			"rotation": [22.5, -22.5, 48],
 			"translation": [3.75, -3.25, 0],
-			"scale": [0.75, 0.75, 1]
+			"scale": [0.75, 0.75, 0.75]
 		}
 	},
 	"groups": [
