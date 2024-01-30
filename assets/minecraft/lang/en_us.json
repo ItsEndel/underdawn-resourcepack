@@ -19,6 +19,8 @@
 
     "ui.text.split": ", ",
 
+    "ui.title.stun": "Stun!",
+
     "ui.enderchest.save.name": "§fSave",
     "ui.enderchest.save.lore.0": "§cDo not move this item.",
 
