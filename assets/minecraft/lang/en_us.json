@@ -72,5 +72,21 @@
     "ui.archive.skill.notebook.name": "§5Notebook",
 
     "ui.archive.skill.toy_knife.name": "§bToy Knife",
-    "ui.archive.skill.ribbon.name": "§bRibbon"
+    "ui.archive.skill.ribbon.name": "§bRibbon",
+
+    "ui.item.lore.weapon": "§f§lWeapon",
+    "ui.item.lore.armor": "§f§lArmor",
+    "ui.item.lore.active": "§f§lActive",
+    "ui.item.lore.passive": "§f§lPassive",
+
+    "ui.item.lore.attack": "§fAttack",
+    "ui.item.lore.cooldown": "§fCooldown",
+
+
+
+    "skill.undyne.spear.name": "§fSpear",
+    "skill.undyne.spear.lore.0": "§f%1$s",
+    "skill.undyne.spear.lore.1": "§f%1$s §f14",
+    "skill.undyne.spear.lore.2": "§fSweeping.",
+    "skill.undyne.spear.lore.3": "§fPress [%1$s§f] to throw."
 }

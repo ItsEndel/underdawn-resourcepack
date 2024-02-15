@@ -72,5 +72,21 @@
     "ui.archive.skill.notebook.name": "§5笔记",
 
     "ui.archive.skill.toy_knife.name": "§b玩具刀",
-    "ui.archive.skill.ribbon.name": "§b缎带"
+    "ui.archive.skill.ribbon.name": "§b缎带",
+
+    "ui.item.lore.weapon": "§f§l武器",
+    "ui.item.lore.armor": "§f§l防具",
+    "ui.item.lore.active": "§f§l主动技能",
+    "ui.item.lore.passive": "§f§l被动技能",
+
+    "ui.item.lore.attack": "§f攻击力",
+    "ui.item.lore.cooldown": "§f冷却",
+
+
+
+    "skill.undyne.spear.name": "§f长矛",
+    "skill.undyne.spear.lore.0": "§f%1$s",
+    "skill.undyne.spear.lore.1": "§f%1$s §f14",
+    "skill.undyne.spear.lore.2": "§f横扫攻击。",
+    "skill.undyne.spear.lore.3": "§f按 [%1$s§f] 投出长矛。"
 }
